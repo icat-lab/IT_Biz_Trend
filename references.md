@@ -9,6 +9,7 @@
 - [Coronavirus contact\-tracing: World split between two types of app \- BBC News](https://www.bbc.com/news/technology-52355028)
 - [Apple Publishes iOS 7 Transition Guide To Help Developers Adopt Flat Design \| TechCrunch](https://techcrunch.com/2013/06/10/apple-publishes-ios-7-transition-guide-to-help-developers-adopt-flat-design/)
 - Katz, M., & Shapiro, C. (1985). Network externalities, competiton and compatibility. *American Economic Review, 75*(3), 424–440.
+- Montgomery, David B (1988). First-Mover Advantages, *Strategic Management Journal. Strategic Management Society, 9*(S1), 41–58. 
 
 ## 1st class: Guidance/ Coping with COVID-19
 - https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
