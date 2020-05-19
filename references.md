@@ -5,6 +5,9 @@
 ご指摘はissueを上げてください。
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
+## 2nd class: 
+- [Coronavirus contact\-tracing: World split between two types of app \- BBC News](https://www.bbc.com/news/technology-52355028)
+- [Apple Publishes iOS 7 Transition Guide To Help Developers Adopt Flat Design \| TechCrunch](https://techcrunch.com/2013/06/10/apple-publishes-ios-7-transition-guide-to-help-developers-adopt-flat-design/)
 
 ## 1st class: Guidance/ Coping with COVID-19
 - https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/
