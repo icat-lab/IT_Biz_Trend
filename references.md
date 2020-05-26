@@ -11,7 +11,14 @@
 - [【PDF】 「スーパーシティ」構想の実現に向けた有識者懇談会,「スーパーシティ」構想の実現に向けて最終報告 (2019 年2月14日)](https://www.kantei.go.jp/jp/singi/tiiki/kokusentoc/supercity/torikumi.pdf)
 - [【PDF】 内閣府地方創生推進事務局, 「スーパーシティ」構想について  (2020年5月)](https://www.kantei.go.jp/jp/singi/tiiki/kokusentoc/supercity/supercity.pdf)
 - [与党急ぐスーパーシティ法案　規制緩和だけではない問題: 朝日新聞デジタル 2020年5月21日](https://www.asahi.com/articles/ASN5N6RSBN5NUTFK004.html)
-
+- [Amazon Web Service: What is a data lake?](https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/)
+- [European Commission, Smart cities.](https://ec.europa.eu/info/eu-regional-and-urban-development/topics/cities-and-urban-development/city-initiatives/smart-cities_en)
+- [What is Smart City :: SMART CITIES MISSION, Government of India](http://smartcities.gov.in/content/innerpage/what-is-smart-city.php)
+- [The Technologies That Turned Barcelona Into A Smart City \- Barcinno](http://www.barcinno.com/barcelona-smart-city-technologies/)
+- [How the Internet of Things is aiding the garbage crisis \| The Network](https://newsroom.cisco.com/feature-content?articleId=1757267)
+- [U\-Dump M2M waste management sensor \| Urbiotica](https://www.urbiotica.com/en/producto/u-dump-m2m-2/)
+- [UAE Pass \| UAE Pass App \| Smart Dubai](https://www.smartdubai.ae/apps-services/uae-pass)
+- [Blockchain Dubai \| Dubai Blockchain Strategy \| Smart Dubai](https://www.smartdubai.ae/initiatives/blockchain)
 
 
 ## 2nd class: 
