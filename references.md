@@ -6,6 +6,9 @@
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
 
+## 4th class:
+- [edX 2020 Impact Report (PDF)](https://www.edx.org/sites/default/files/2020-impact-report.pdf)
+
 ## 3rd class:
 - [スーパーシティ法案成立へ　自動運転・遠隔医療集約で相乗効果 コロナ拡大で規制改革機運　:日本経済新聞 2020/5/13付日本経済新聞　朝刊](https://www.nikkei.com/article/DGKKZO58993860S0A510C2PP8000/)
 - [【PDF】 「スーパーシティ」構想の実現に向けた有識者懇談会,「スーパーシティ」構想の実現に向けて最終報告 (2019 年2月14日)](https://www.kantei.go.jp/jp/singi/tiiki/kokusentoc/supercity/torikumi.pdf)
