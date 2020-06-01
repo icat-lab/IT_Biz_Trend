@@ -9,6 +9,17 @@
 ## 4th class:
 - [edX 2020 Impact Report (PDF)](https://www.edx.org/sites/default/files/2020-impact-report.pdf)
 
+- [Smart City Portrait: Barcelona](https://hub.beesmart.city/city-portraits/smart-city-portrait-Barcelona)
+- [Barcelona Smart City: By The People, For The People \| HERE Mobility](https://mobility.here.com/learn/smart-city-initiatives/barcelona-smart-city-people-people)
+- [Fab Lab official website](https://www.fablabs.io/)
+- [Barcelona's Innovation District \- 22@Barcelona \- Safe and Smart City](https://safesmart.city/en/district-22-barcelona/)
+- [decidim\.barcelona](https://www.decidim.barcelona/)
+  - [Decidim\.barcelona](http://www.eurocities.eu/eurocities/documents/Decidim-barcelona-WSPO-AZ9ATM)
+- [FabLabs](https://www.fablabs.io/)  
+  - [About Us \| FabLab Japan Network](http://fablabjapan.org/about/)
+- [Underworlds :: MIT Senseable City Lab](http://senseable.mit.edu/uw-24h-study/)
+- [MIT is sending robots into sewers to predict disease outbreaks \- Insider](https://www.insider.com/mit-underworlds-sends-robots-into-sewers-2016-8)
+
 ## 3rd class:
 - [スーパーシティ法案成立へ　自動運転・遠隔医療集約で相乗効果 コロナ拡大で規制改革機運　:日本経済新聞 2020/5/13付日本経済新聞　朝刊](https://www.nikkei.com/article/DGKKZO58993860S0A510C2PP8000/)
 - [【PDF】 「スーパーシティ」構想の実現に向けた有識者懇談会,「スーパーシティ」構想の実現に向けて最終報告 (2019 年2月14日)](https://www.kantei.go.jp/jp/singi/tiiki/kokusentoc/supercity/torikumi.pdf)
