@@ -5,6 +5,12 @@
 ご指摘はissueを上げてください。
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
+## 5th class:
+
+
+- [Tesla influencing the rest of the auto industry is completely wrong \- Business Insider](https://www.businessinsider.com/tesla-influencing-auto-industry-is-wrong-2019-1)
+- ["Woven City", a prototype city where people, buildings, and vehicles are connected through data and sensors\. We welcome you all to join us in our quest to create an ever\-better way of "mobility for all\." \| Corporate \| Global Newsroom \| Toyota Motor Corporation Official Global Website](https://global.toyota/en/newsroom/corporate/31221914.html)
+- [Defining Living Labs \| MIT Sustainability](https://sustainability.mit.edu/defining-living-labs)
 
 ## 4th class:
 - [edX 2020 Impact Report (PDF)](https://www.edx.org/sites/default/files/2020-impact-report.pdf)
