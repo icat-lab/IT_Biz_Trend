@@ -14,6 +14,9 @@
 - [Google affiliate Sidewalk Labs abruptly abandons Toronto smart city project \| Technology \| The Guardian](https://www.theguardian.com/technology/2020/may/07/google-sidewalk-labs-toronto-smart-city-abandoned)
 - [Why we’re no longer pursuing the Quayside project — and what’s next for Sidewalk Labs](https://medium.com/sidewalk-talk/why-were-no-longer-pursuing-the-quayside-project-and-what-s-next-for-sidewalk-labs-9a61de3fee3a)
 - [Introducing Replica, a next\-generation urban planning tool](https://medium.com/sidewalk-talk/introducing-replica-a-next-generation-urban-planning-tool-1b7425222e9e)
+- [Sidewalk Labs launches advanced infrastructure partnership \- Smart Cities World](https://www.smartcitiesworld.net/news/news/sidewalk-labs-launches-advanced-infrastructure-partnership-4543)
+- [Sidewalk Infrastructure Partners \| The Future of Infrastructure](https://www.sidewalkinfra.com/)
+- [What We Do \| Cityblock](https://www.cityblock.com/approach)
 
 ## 4th class:
 - [edX 2020 Impact Report (PDF)](https://www.edx.org/sites/default/files/2020-impact-report.pdf)
