@@ -5,9 +5,17 @@
 ご指摘はissueを上げてください。
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
+
+## 6th class:
+- [Why we’re no longer pursuing the Quayside project — and what’s next for Sidewalk Labs](https://medium.com/sidewalk-talk/why-were-no-longer-pursuing-the-quayside-project-and-what-s-next-for-sidewalk-labs-9a61de3fee3a)
+- [Sidewalk Labs Plans $980 Million Investment In Toronto Hub – Bloomberg](https://www.bloomberg.com/news/articles/2019-06-24/sidewalk-labs-plans-980-million-investment-in-toronto-tech-city)
+- [Sidewalk Infrastructure Partners | The Future of Infrastructure](https://www.sidewalkinfra.com/)
+- [City OS Platform](https://cityoscommunity.com/en/plataforma-city-os/)
+- [Smart cities: This city runs on its own operating system \| ZDNet](https://www.zdnet.com/article/smart-cities-this-city-runs-on-its-own-operating-system/)
+- [KCOM | History](https://www.kcomgroupltd.com/about-us/our-business/history/)
+
+
 ## 5th class:
-
-
 - [Tesla influencing the rest of the auto industry is completely wrong \- Business Insider](https://www.businessinsider.com/tesla-influencing-auto-industry-is-wrong-2019-1)
 - ["Woven City", a prototype city where people, buildings, and vehicles are connected through data and sensors\. We welcome you all to join us in our quest to create an ever\-better way of "mobility for all\." \| Corporate \| Global Newsroom \| Toyota Motor Corporation Official Global Website](https://global.toyota/en/newsroom/corporate/31221914.html)
 - [Defining Living Labs \| MIT Sustainability](https://sustainability.mit.edu/defining-living-labs)
