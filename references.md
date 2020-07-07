@@ -6,6 +6,37 @@
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
 
+## 9th class:
+- [GitHub to replace "master" with alternative term to avoid slavery references \| ZDNet](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/)
+- [“Blacklists” and “whitelists”: a salutary warning concerning the prevalence of racist language in discussions of predatory publishing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6148600/)
+- [Apple Card \- Apple](https://www.apple.com/apple-card/)
+- [Apple Card algorithm sparks gender bias inquiry \- The Washington Post](https://www.washingtonpost.com/business/2019/11/11/apple-card-algorithm-sparks-gender-bias-allegations-against-goldman-sachs/)
+- [Building a fairer and more inclusive financial services industry for everyone](https://medium.com/@nydfs/building-a-fairer-and-more-inclusive-financial-services-industry-for-everyone-917183dae954)
+
+## 8th class:
+- [Bill Gates' Open Letter to Hobbyists](http://www.blinkenlights.com/classiccmp/gateswhine.html)
+- [Reproduction of the letter as it appeared in the Homebrew Computer Club Newsletter Volume 2, Issue 1, January 31, 1976 (letter dated February 3)](http://www.digibarn.com/collections/newsletters/homebrew/V2_01/homebrew_V2_01_p2.jpg)
+- [Apple 1 Advertisement Oct 1976 \- Apple I \- Wikipedia](https://en.wikipedia.org/wiki/Apple_I#/media/File:Apple_1_Advertisement_Oct_1976.jpg)
+
+## 7th class:
+- [Contact\-tracing app set to debut in Japan this week \- Nikkei Asian Review](https://asia.nikkei.com/Spotlight/Coronavirus/Contact-tracing-app-set-to-debut-in-Japan-this-week)
+- [コロナ接触を通知する日本版｢接触確認アプリ｣を作ったのは誰か？…｢6割普及｣への挑戦 \| Business Insider Japan](https://www.businessinsider.jp/post-214726)
+- [The Open Source Definition \| Open Source Initiative](https://opensource.org/osd)
+    [The Open Source Initiative: オープンソースの定義\(日本語\)](https://opensource.jp/osd/osd-japanese.html)
+- [Home » Open Compute Project](https://www.opencompute.org/)
+    [About » Open Compute Project](https://www.opencompute.org/about)
+- [What if all government services were this good? \- Code for America](https://www.codeforamerica.org/)
+    - [About us \- Code for America](https://www.codeforamerica.org/about-us)
+    - [Our vision, mission, values, and operating principles \- Code for America](https://www.codeforamerica.org/values)
+- [What is Civic Tech?](https://www.govtech.com/civic/What-is-Civic-Tech.html)
+- [What’s the Difference Between “Civic Tech” and “GovTech”?](https://www.citizenlab.co/blog/civic-tech/whats-difference-civic-tech-govtech/)
+- [Is Civic Tech Fulfilling its Promise? \- MIT GOV/LAB \| MIT GOV/LAB](https://mitgovlab.org/updates/is-civic-tech-fulfilling-its-promise/)
+- [「接触確認アプリ」開発の紆余曲折、平内閣府副大臣が語る：日経ビジネス電子版](https://business.nikkei.com/atcl/gen/19/00005/060200147/)
+- [Exposure Notification \- FAQ v1\.1](https://covid19-static.cdn-apple.com/applications/covid19/current/static/contact-tracing/pdf/ExposureNotification-FAQv1.0.pdf)
+- [接触確認アプリの導入に向けた 取組について 令和2年5月8日 新型コロナウイルス感染症対策テックチーム事務局](https://cio.go.jp/sites/default/files/uploads/documents/techteam_20200509_04.pdf)
+- [接触確認アプリの導入に係る 各国の動向等について 令和2年5月8日 新型コロナウイルス感染症対策テックチーム事務局](https://cio.go.jp/sites/default/files/uploads/documents/techteam_20200508_02.pdf)
+- [接触確認アプリ及び関連システム仕様書 2020年5月26日 新型コロナウイルス感染症対策テックチーム](https://cio.go.jp/sites/default/files/uploads/documents/techteam_20200526_01.pdf)
+
 ## 6th class:
 - [Why we’re no longer pursuing the Quayside project — and what’s next for Sidewalk Labs](https://medium.com/sidewalk-talk/why-were-no-longer-pursuing-the-quayside-project-and-what-s-next-for-sidewalk-labs-9a61de3fee3a)
 - [Sidewalk Labs Plans $980 Million Investment In Toronto Hub – Bloomberg](https://www.bloomberg.com/news/articles/2019-06-24/sidewalk-labs-plans-980-million-investment-in-toronto-tech-city)
