@@ -6,6 +6,17 @@
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
 
+## 10th class: 
+- [Why emoji are — finally — becoming more diverse \- The Washington Post](https://www.washingtonpost.com/technology/2019/07/18/why-emoji-are-finally-becoming-more-diverse/)
+- [Hidden iOS 5 Feature Offers Tons of Beautiful Emoticons \[PICS\]](https://mashable.com/2011/12/07/hidden-ios-5-feature-emoji/)
+- ※Japanese article: [KDDI、au絵文字をドコモと統一　「同じ絵文字で他社とメールを」 \- ITmedia NEWS](https://www.itmedia.co.jp/news/articles/1204/18/news085.html)
+- ※Japanese article: [絵文字を使いこなして見るためのページ【Docomo】全ページ](http://trialgoods.com/emoji/?career=i&page=all)
+- [Emoji for Unicode: Open Source Data for the Encoding Proposal \| Google Open Source Blog](https://opensource.googleblog.com/2008/11/emoji-for-unicode-open-source-data-for.html)
+- [Proposal for Encoding Emoji Symbols \- Unicode Symbols](https://sites.google.com/site/unicodesymbols/Home/emoji-symbols/proposal-text)
+- [Apple’s new diverse emoji are even more problematic than before \- The Washington Post](https://www.washingtonpost.com/posteverything/wp/2015/04/10/how-apples-new-multicultural-emojis-are-more-racist-than-before/)
+
+
+
 ## 9th class:
 - [GitHub to replace "master" with alternative term to avoid slavery references \| ZDNet](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/)
 - [“Blacklists” and “whitelists”: a salutary warning concerning the prevalence of racist language in discussions of predatory publishing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6148600/)
