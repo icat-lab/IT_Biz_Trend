@@ -6,6 +6,16 @@
 スライドでとりあげている順に記載します。論文、書籍、ウェブサイトなど、種別によるカテゴリーごとに並べているわけではないので留意ください。
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
 
+## 11th class:
+- [Apple unveils new iPad Pro with LiDAR Scanner and trackpad support in iPadOS \- Apple](https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/)
+- [Apple is launching an iOS ‘ARKit’ for augmented reality apps \- The Verge](https://www.theverge.com/2017/6/5/15732832/apple-augmented-reality-arkit-ar-sdk-wwdc-2017)
+- [Apple's LiDAR Scanner a game\-changer in scanning technology?](https://www.geospatialworld.net/blogs/apples-lidar-scanner/)
+- ※Japanese article: [平成30年7月豪雨に関する情報 \| 国土地理院](https://www.gsi.go.jp/BOUSAI/H30.taihuu7gou.html)
+- [The iPad Pro can scan your house, and future iPhones might too \- CNET](https://www.cnet.com/news/the-ipad-pro-can-scan-your-house-and-future-iphones-might-too/)
+- [Improving construction workflows using 3D point clouds and BIM in 2019](https://info.vercator.com/blog/improving-construction-workflows-using-3d-point-clouds-and-bim-in-2019)
+- [3D point cloud data - Hitachi Construction Machinery](https://www.hitachicm.com/global/solution-linkage/about-ict/3d-point-cloud/)
+
+
 ## 10th class: 
 - [Why emoji are — finally — becoming more diverse \- The Washington Post](https://www.washingtonpost.com/technology/2019/07/18/why-emoji-are-finally-becoming-more-diverse/)
 - [Hidden iOS 5 Feature Offers Tons of Beautiful Emoticons \[PICS\]](https://mashable.com/2011/12/07/hidden-ios-5-feature-emoji/)
