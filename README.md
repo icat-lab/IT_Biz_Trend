@@ -1,4 +1,4 @@
-# プラットフォーム戦略
+# IT企業最前線
 [深見嘉明](https://github.com/icat-lab/icat_lab)が担当する、学習院大学経済学部経営学科 英語で学ぶビジネス事情（IT企業最前線） に関する情報提供ページです。
 
 ## 情報告知Twitter
@@ -9,8 +9,8 @@
 この授業では、オンデマンド授業として行います。
 具体的には
 - YouTube動画配信
-- manaba資料配信
-を併用します。
+- manabaによるYouTubeリンク、PDF配布資料リンク、ミニ課題リンクの配信
+という形で実施します。
 その他、詳細は追って連絡します。
 
 なお、学習院大学で定めている[遠隔授業受講のルール](https://www.univ.gakushuin.ac.jp/life/studentlife/attention/onlinerules.html) を遵守するようにしてください。
